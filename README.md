@@ -2,7 +2,7 @@
 
 **ft_printf** es una implementación propia de la función `printf()` de la biblioteca estándar de C. Este proyecto es parte del curso de programación del 42Cursus y tiene como objetivo profundizar en el manejo de cadenas, formatos y punteros, así como la correcta gestión de la memoria dinámica.
 
-## Descripción
+## :star2: Descripción
 
 En este proyecto, creé una versión personalizada de la función `printf`, que soporta una variedad de especificadores de formato y funcionalidades como:
 
@@ -14,7 +14,7 @@ En este proyecto, creé una versión personalizada de la función `printf`, que 
 - **%p**: Imprime una dirección de memoria en formato hexadecimal.
 - **%%**: Imprime un símbolo de porcentaje (`%`).
 
-## Características
+### :sparkles: Características
 
 - **Eficiencia**: Se busca que la función sea eficiente en cuanto a la manipulación de los argumentos y la impresión de los resultados.
 - **Compatibilidad**: La función es completamente compatible con los especificadores de formato más comunes, tal como se especifica en el estándar `printf`.
